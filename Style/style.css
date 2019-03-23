@@ -1,0 +1,61 @@
+*{
+
+}
+
+body{
+     background-color: #54aee8
+}
+#inputs{
+     margin: 50px auto 20px auto;
+     text-align: center;
+}
+#button{
+     border-radius: 5px;
+}
+
+
+#Operations{
+     color: white;
+     margin: 0 auto 50px auto;
+     text-align: center;
+     text-shadow: 2px 1px gray;
+     font-weight: 900;
+     font-family: 'Courier New', Courier, monospace
+
+}
+#title{
+     color: white;
+     margin: 0 auto 50px auto;
+     text-align: center;
+     text-shadow: 1px 1px gray;
+     font-weight: 900;
+     font-family: 'Courier New', Courier, monospace;
+     text-decoration: white;
+    
+
+     
+}
+#mensageUser{
+     color: black;
+     margin: auto;
+     text-align: center;
+}
+
+#mensage{
+     color: black;
+     margin: auto;
+     text-align: center;
+}
+#mensageShuffle{
+     color: black;
+     margin: auto;
+     text-align: center;
+}
+#mensageSort{
+     color: black;
+     margin: auto;
+     text-align: center;
+}
+
+
+
